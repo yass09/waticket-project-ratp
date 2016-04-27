@@ -1,0 +1,148 @@
+@font-face {
+    font-family: 'Glyphicons Halflings';
+    src: url('../fonts/glyphicons-halflings-regular.eot');
+    src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+}
+
+body {
+    background-color: #FBFDF6;
+    font-family: 'Helvetica';
+    text-align: center;
+}
+
+.border-blue {
+  border-bottom: 20px solid #003E91;
+}
+
+.row {
+  margin-top: 100px;
+}
+
+.img-ticket {
+  height: 300px;
+  margin: auto auto;
+  display: block;
+    margin-top: 60px;
+}
+
+.text {
+  text-align: center;
+}
+
+.glyphicon {
+    font-size: 100px;
+}
+
+.bg-green {
+  background-color: #00AA90;
+}
+
+.bg-blue {
+  background-color: #003E91;
+}
+
+#head {
+  color: #FBFDF6;
+}
+
+.load {
+  height: 1200px;
+}
+
+.header {
+  height: 100px;
+}
+
+#head .load h1 {
+  font-size: 8em;
+  text-transform: uppercase;
+  margin: 100px 0;
+}
+
+#head .load h2 {
+  font-size: 3em;
+  line-height: 1.5;
+}
+
+.container {
+  text-align: center;
+}
+
+#logo {
+  width: 300px;
+  margin-top: 300px;
+}
+
+#login {
+  margin-top: 90px;
+}
+
+.avatar {
+  width: 250px;
+}
+
+#login p {
+  margin-top: 60px;
+}
+
+#login a {
+  font-size: 2em;
+  color: #003E91;
+}
+
+.question {
+  color: #1F4F97;
+  font-size: 5em;
+  font-weight: bolder;
+  margin-top: 400px;
+}
+
+.reponse{
+  color: white;
+  font-size: 3em;
+}
+
+.button-container {
+  margin-top: 130px;
+}
+
+.btn {
+  background-color: #1D4A8D;
+  margin-bottom: 40px;
+  border-radius: 10px;
+}
+
+.map {
+  font-size: 30px;
+  position: absolute;
+  right: 0;
+  padding: 1px 20px;
+}
+
+iframe {
+  margin: auto auto;
+  display: block;
+}
+
+#q1{
+    margin-top: 40px;
+}
+
+.instructions{
+    color: #1F4F97;
+    font-size: 3em;
+    font-weight: bolder;
+    margin-top: 0px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+.question-bis{
+  color: #1F4F97;
+  font-size: 5em;
+  font-weight: bolder;
+  margin-top: 200px;
+}
+.form-control{
+    height: 80px;
+    font-size: 1em;
+}
